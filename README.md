@@ -3,6 +3,8 @@
 The purpose of this election analysis is to add additional data that was requested for the audit. Specifically, I retrieved the voter turnout for each county, the percentage of votes from each county, and the county with the highest voter turnout. 
 
 ## 2. Election-Audit Results:
+<img width="540" alt="Screen Shot 2022-07-29 at 3 36 36 PM" src="https://user-images.githubusercontent.com/105089651/181831938-fabc35f3-9f4c-4646-8e10-fc793dc79098.png"> 
+
 ### * How many votes were cast in this congressional election?
 
     There were 369,711 total votes cast in the congressional election.
